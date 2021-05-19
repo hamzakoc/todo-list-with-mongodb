@@ -11,7 +11,7 @@ npm start
 <br>  <br>  
 
 Add or delete any task from to do list. 
-url/<anyName> to create new list indepently
+url/"<anyName>" to create new list indepently
 
 Preview
 https://todo-list-with-mdb.herokuapp.com/
