@@ -10,7 +10,7 @@ Serve on localhost:3000
 npm start
 <br>  <br>  
 
-Add or delete any task from to do list. 
+Add or delete any task from to do list. <br>
 url/"anyName" to create new list indepently
 
 Preview
